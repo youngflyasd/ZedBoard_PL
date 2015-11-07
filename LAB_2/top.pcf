@@ -1,0 +1,17 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Thu Sep 17 16:25:33 2015
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "LD<0>" LOCATE = SITE "T22" LEVEL 1;
+COMP "LD<1>" LOCATE = SITE "T21" LEVEL 1;
+COMP "LD<2>" LOCATE = SITE "U22" LEVEL 1;
+COMP "LD<3>" LOCATE = SITE "U21" LEVEL 1;
+COMP "LD<4>" LOCATE = SITE "V22" LEVEL 1;
+COMP "LD<5>" LOCATE = SITE "W22" LEVEL 1;
+COMP "LD<6>" LOCATE = SITE "U19" LEVEL 1;
+COMP "LD<7>" LOCATE = SITE "U14" LEVEL 1;
+COMP "GCLK" LOCATE = SITE "Y9" LEVEL 1;
+COMP "BTNU" LOCATE = SITE "T18" LEVEL 1;
+SCHEMATIC END;
+

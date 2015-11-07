@@ -1,0 +1,11 @@
+Storage Target: Xilinx Flash/PROM
+Storage Family: Platform Flash
+xcf32p          [32 M]
+FF
+top_1
+D:\Study\first\prj_ZYNQ_PL\LAB2/
+
+MCS
+Yes
+1
+No

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\study\prj_ZYNQ_PL\LAB_2\top.ncd
+OUTFILE=D:\study\prj_ZYNQ_PL\LAB_2\top.bit
+FAMILY=Zynq
+PART=xc7z020-1clg484
+WORKINGDIR=D:\study\prj_ZYNQ_PL\LAB_2
+LICENSE=WebPack
+USER_INFO=_

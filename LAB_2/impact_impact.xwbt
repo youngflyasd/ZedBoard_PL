@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=D:\study\prj_ZYNQ_PL\LAB_2\impact.xsl
+OUTFILE=D:\study\prj_ZYNQ_PL\LAB_2\impact.xsl
+FAMILY=Multiple
+PART=Multiple
+WORKINGDIR=D:\study\prj_ZYNQ_PL\LAB_2
+LICENSE=iMPACT
+USER_INFO=iMPACT
